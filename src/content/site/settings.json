@@ -15,5 +15,108 @@
   "newsletterOnWork": false,
   "ogImage": "/assets/og-default.jpg",
   "metaDescription": "",
-  "socialLinks": []
+  "socialLinks": [],
+  "supportLinks": [],
+  "linksEnabled": false,
+  "links": [],
+  "searchEnabled": false,
+  "cvAutoExhibitions": false,
+  "commissionsMode": "form",
+  "analyticsProvider": "none",
+  "sellEnabled": false,
+  "availableForWork": false,
+  "newsletterEnabled": false,
+  "newsletterProvider": "netlify",
+  "stockists": [],
+  "design": {
+    "preset": "minimal",
+    "color": {
+      "background": "#000000",
+      "surface": "#ffffff",
+      "text": "#d6d6d6",
+      "muted": "#8a8a8a",
+      "accent": "#1a1a1a",
+      "accent2": "#b0392f",
+      "border": "#e5e5e5",
+      "link": "#1a1a1a",
+      "heading": "#1a1a1a"
+    },
+    "type": {
+      "headingFont": "Inter",
+      "bodyFont": "Inter",
+      "headingWeight": 500,
+      "bodyWeight": 400,
+      "baseSize": 16,
+      "headingTransform": "none",
+      "letterSpacing": -0.02
+    },
+    "shape": {
+      "radius": 0,
+      "borderWidth": 1,
+      "shadows": "none"
+    },
+    "density": "airy",
+    "contentWidth": "normal",
+    "readingWidth": "relaxed",
+    "motion": "smooth",
+    "nav": {
+      "layout": "side"
+    },
+    "home": {
+      "landing": "work"
+    },
+    "logo": {
+      "mode": "none"
+    },
+    "background": {
+      "type": "solid"
+    },
+    "thumb": {
+      "fit": "contain",
+      "hover": "none"
+    },
+    "gallery": {
+      "layout": "masonry",
+      "size": "medium",
+      "gutter": "normal",
+      "caption": "below",
+      "cardStyle": "card",
+      "captionDetail": "full",
+      "captionOverlay": "surface",
+      "featureFirst": false,
+      "adaptiveSpans": false,
+      "click": "lightbox",
+      "filters": false
+    },
+    "lightbox": {
+      "transition": "fade",
+      "zoom": true
+    },
+    "hero": {
+      "enabled": false,
+      "align": "left",
+      "size": "small"
+    },
+    "footer": {
+      "socials": true,
+      "credit": true
+    },
+    "favicon": {
+      "mode": "initials"
+    },
+    "pages": {
+      "about": true,
+      "contact": true,
+      "cv": true,
+      "press": true,
+      "exhibitions": false,
+      "news": false,
+      "available": true,
+      "presskit": false,
+      "commissions": false,
+      "shop": false,
+      "projects": false,
+      "stockists": false
+    }
+  }
 }
